@@ -2,6 +2,8 @@
 
 A **shot-by-shot production bible** for building a ~4-minute cinematic sequence in **xAI Grok Imagine 1.5** — *Odyssey* Book 11 (Odysseus meets Tiresias in Hades).
 
+**Grok Odyssey Challenge:** See [`09-grok-odyssey-challenge-rules.md`](09-grok-odyssey-challenge-rules.md) — $175K prizes, deadline **Aug 31, 2026**.
+
 Designed for the **film-crew workflow**: generate individual 6–12s clips with reference-to-video, then **Stitch** in Grok canvas. Do **not** ask Grok for a four-minute movie in one prompt.
 
 ---
