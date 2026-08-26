@@ -43,11 +43,12 @@ Follow [`05-stitching-order.md`](05-stitching-order.md). Select all clips in can
 | [`08-master-generation-order.md`](08-master-generation-order.md) | **Full checklist: all images → all video → stitch** |
 | [`09-grok-odyssey-challenge-rules.md`](09-grok-odyssey-challenge-rules.md) | **Official @grok contest rules + submission checklist** |
 | [`10-grok-imagine-tips.md`](10-grok-imagine-tips.md) | **Kara/@grok tips: @refs, skin texture, timestamps, canvas method** |
+| [`11-imagine-cinematic-guide.md`](11-imagine-cinematic-guide.md) | **Official @imagine Odyssey cinematic guide — aim, film language, Speed/Quality, omni-ref, director prompts** |
 | [`images/`](images/) | Copy-paste prompts for every still (15 images) |
 | [`reference/`](reference/) | **Pre-generated PNG reference pack (16 files)** |
 | [`prompts/`](prompts/) | Copy-paste Grok prompts for shots 01–26 |
 | [`PRODUCTION-GUIDE.md`](PRODUCTION-GUIDE.md) | Extended workflow notes |
-| [`skills/`](skills/) | Cursor agent skill for this workflow |
+| [`skills/`](skills/) | Cursor agent skills: cinematic sequence + Imagine cinematic scenes |
 
 **Runtime:** ~242 seconds (26 shots) · **Source:** Homer, *Odyssey* Book 11
 
