@@ -19,7 +19,9 @@ Environmental audio only unless dialogue specified. No on-screen text.
 
 SHOT 10 — SHADE PARTING WIDE
 Duration: 8 seconds.
-35mm wide. Smoke parts. Shades recede. Cold blue darkness beyond.
+35mm wide. Smoke parts at center as if making a path. **Near shades step aside at torchlight edge.**
+ **Far darkness still packed with massed dead** — hundreds of faint faces watching from deep background.
+ Cold blue abyss beyond. Ominous, not action. Distant murmuring audio.
 
 References: env-shades-crowd, env-cavern-dark
 ```

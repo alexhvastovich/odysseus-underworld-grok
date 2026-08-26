@@ -138,9 +138,13 @@ Interior cavern mouth still: wet stone, volumetric smoke, cold blue-black darkne
 
 ### `env-shades-crowd.jpg`
 ```
-Wide still: dozens of faint human shades standing in smoke at edge of torchlight in cavern.
- Semi-transparent, mournful, not monstrous, not glowing. Charcoal and amber palette.
-[GLOBAL STILL SUFFIX]
+Wide still: DEEP depth composition. Foreground: empty torchlit sand and smoke.
+ Mid-ground: a few faint semi-transparent human shades at torchlight edge — mournful, reaching slightly.
+ FAR BACKGROUND (most important): legions of dead massed in darkness — dozens to hundreds of small pale faces
+ and silhouettes receding into blue-black abyss, barely lit by distant torch glow. Unsettling scale.
+ NOT glowing green, NOT monsters — human dead, starving, gibbering presence. Charcoal and amber palette.
+Cinematic still frame. 16:9 1080p. 2.39:1 anamorphic composition.
+35mm film look, subtle grain. Ancient Mediterranean underworld realism. No text.
 ```
 
 ---

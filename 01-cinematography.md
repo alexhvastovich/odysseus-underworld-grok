@@ -16,6 +16,7 @@ Muted palette: charcoal black, wet stone grey, cold blue-black shadows, torch am
 Volumetric smoke and sea mist. Natural skin texture, wind-chapped, sun-weathered.
 Costume: hand-woven linen and wool, coarse edges, no pristine costumes.
 Shades of the dead: faint, human, partially obscured by smoke — NOT glowing spirits.
+**Depth layering:** nearest shades at torchlight edge; **far ranks mass in deep darkness** — small faces, many bodies, unsettling scale. Scary through distance and hunger, not horror-monster makeup.
 Environmental audio only unless dialogue is specified: wind, distant surf, cavern drip, fire crackle.
 No on-screen text. No logos. No anamorphic lens flare spam.
 ```

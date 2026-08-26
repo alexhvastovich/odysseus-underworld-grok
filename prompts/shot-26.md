@@ -24,7 +24,9 @@ Same face identity as odysseus-anchor. Thick dark wavy hair with grey at temples
 
 SHOT 26 — WIDE SHADES CLOSING
 Duration: 8 seconds.
-35mm wide. SAME Odysseus silhouette. Shades press at torchlight edge.
+35mm wide. SAME Odysseus silhouette in foreground torchlight.
+ **Near shades press at light's edge. Far darkness: legions of dead still massed**, watching, closing slowly inward.
+ Smoke thickens. Ominous closure — dread, not battle. Distant gibbering. End frame holds on darkness full of faint faces.
 
 References: odysseus-anchor, odysseus-fullbody, env-shades-crowd, env-cavern-dark
 ```

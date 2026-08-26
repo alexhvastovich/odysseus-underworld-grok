@@ -24,7 +24,9 @@ Same face identity as odysseus-anchor. Thick dark wavy hair with grey at temples
 
 SHOT 11 — ODYSSEUS SWORD MEDIUM
 Duration: 9 seconds.
-50mm medium. SAME Odysseus — match anchor exactly. Sword half-drawn. Looks CR.
+50mm medium. SAME Odysseus — match anchor exactly. Bronze sword **drawn**, held low between himself and the pit — Homeric barrier against the dead, not attacking.
+ Looks camera-right toward approaching presence. **Background: distant ranks of shades in deep dark**, far more numerous than near torchlight.
+ Controlled fear. No dialogue.
 
 References: odysseus-anchor, odysseus-3q-right, odysseus-fullbody. Eyeline: CR
 ```

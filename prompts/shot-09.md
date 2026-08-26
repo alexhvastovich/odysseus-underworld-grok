@@ -24,7 +24,10 @@ Same face identity as odysseus-anchor. Thick dark wavy hair with grey at temples
 
 SHOT 09 — OTS SHADES STIR
 Duration: 9 seconds.
-85mm over SAME Odysseus shoulder. Hand on sword. Shades drift at torchlight edge.
+85mm over SAME Odysseus shoulder toward deep cavern. His hand on bronze sword hilt, blade partly visible.
+ NEAR: a few shades at torchlight edge drift closer — faint human faces, not glowing.
+ FAR: **massed ranks of dead in the darkness beyond** — many small pale faces, unsettling depth, eerie stillness.
+ Odysseus holds the line. Environmental audio: distant gibbering murmurs of many voices. No dialogue.
 
 References: odysseus-anchor, odysseus-3q-right, env-shades-crowd
 ```
