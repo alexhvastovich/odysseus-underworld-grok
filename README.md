@@ -8,10 +8,12 @@ Designed for the **film-crew workflow**: generate individual 6–12s clips with 
 
 ## Quick start (when your Grok limit resets)
 
-### 1. Lock reference stills first
-Open [`08-master-generation-order.md`](08-master-generation-order.md) — work **Phase 0 → Phase 3** only.
+### 1. Reference stills — **pre-generated in `reference/`**
+Download the [`reference/`](reference/) folder (16 PNGs) and upload to Grok canvas.
 
-Use [`images/`](images/) for copy-paste still prompts. Start with your Calypso Odysseus as `odysseus-anchor.jpg`. **No video until all stills pass the gate checks.**
+**Or** replace `odysseus-anchor.png` with your approved Calypso frame, then regenerate angles using [`images/`](images/) prompts.
+
+Skip to Phase 5 video when stills pass your review. See [`08-master-generation-order.md`](08-master-generation-order.md).
 
 ### 2. Generate shots in order
 Open [`04-shot-list.md`](04-shot-list.md). For each shot **01 → 26**:

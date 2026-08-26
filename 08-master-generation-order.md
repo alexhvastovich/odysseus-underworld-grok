@@ -10,7 +10,9 @@
 
 | Step | Output | Source |
 |------|--------|--------|
-| 0.1 | `odysseus-anchor.jpg` | Best frame from your approved Calypso-scene Grok work |
+| 0.1 | `odysseus-anchor.png` | **`reference/odysseus-anchor.png`** (pre-generated) OR your Calypso Grok frame |
+
+> **Pre-generated pack:** The repo includes 16 ready-to-upload PNGs in [`reference/`](../reference/). Review them first — swap in your Calypso anchor if preferred.
 
 ---
 
