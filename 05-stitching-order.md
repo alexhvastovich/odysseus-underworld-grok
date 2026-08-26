@@ -1,16 +1,53 @@
 # Stitching Order
 
-Assemble in this exact order. Select all 26 clips in canvas → **Stitch** (or chat: "stitch these together").
+**Rule:** Stitch only at **clear story-beat cut points**. For continuous motion within a beat, prefer **one generation from a tagged (@) storyboard sequence** — smoother than stitching micro-clips. See [`10-grok-imagine-tips.md`](10-grok-imagine-tips.md) §0.
 
 ---
 
-## Full sequence
+## Two assembly strategies
+
+### Strategy A — Individual shots (default in this repo)
+Generate each `prompts/shot-NN.md` separately → stitch at **act breaks** below.
+
+### Strategy B — Tagged storyboard sequences (smoother motion)
+For continuous beats, one prompt with multiple `@` tagged stills → one video per beat → stitch fewer, longer segments.
+
+| Beat | Shots | Try Strategy B? |
+|------|-------|-----------------|
+| Descent walk | 03–05 | ✓ one 15s @ sequence |
+| Ritual | 06–08 | optional |
+| Shades pressure | 09–11 | ✓ one @ sequence |
+| Prophecy dialogue | 13–21 | ✗ keep separate CUs (hard cuts) |
+| Close | 24–25 | ✓ one @ sequence |
+
+---
+
+## Full sequence (Strategy A — 26 clips)
+
+Assemble in this order. Select clips → **Stitch** only where act breaks mark end of a beat.
 
 ```
 01 → 02 → 03 → 04 → 05 → 06 → 07 → 08 → 09 → 10 → 11 → 12 → 13 → 14 → 15 → 16 → 17 → 18 → 19 → 20 → 21 → 22 → 23 → 24 → 25 → 26
 ```
 
 **Expected duration:** ~242 seconds (4:02)
+
+---
+
+## Preferred stitch points (clear cut points only)
+
+Stitch **between** these beats — not mid-motion:
+
+| Stitch after | ~Time | Why (beat ended) |
+|--------------|-------|------------------|
+| 02 or 05 | 0:18–0:42 | Exterior descent → ritual begins |
+| 08 | 1:06 | Libation done → shades stir |
+| 11 | 1:33 | Sword standoff → Tiresias path opens |
+| 15 | 2:14 | Setup dialogue done → prophecy block |
+| 22 | 3:22 | Prophecy done → aftermath |
+| 26 | 4:02 | Final |
+
+**Do NOT stitch** mid-walk (03→04), mid-push-in (12), or mid-reaction flow (24→25) if @ storyboard sequence produced one smooth clip instead.
 
 ---
 

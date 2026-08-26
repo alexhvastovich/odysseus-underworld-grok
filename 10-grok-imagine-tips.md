@@ -3,7 +3,55 @@
 Extracted from **@karaebel** (xAI/Grok team), **@SebJefferies**, and creator threads.  
 Use alongside this repo's shot list and reference pack.
 
-**Sources:** Kara replies on X · Aug 2026 · Grok Imagine / Agent Mode updates
+**Sources:** Kara replies on X · Aug 2026 · Grok Imagine / Agent Mode updates · community (Aug 25, 2026)
+
+---
+
+## 0. Stitch vs tagged storyboard sequences (IMPORTANT)
+
+**Community tip (Aug 2026):**
+
+> Don't stitch video **unless there is a clear cut point** marking the end of a story beat.  
+> Instead, use a **sequence of tagged (@) images or a storyboard** in **one generation** for smoother, continuous motion.
+
+### When to use each
+
+| Method | Use when |
+|--------|----------|
+| **Tagged @ storyboard → one video** | Same beat, continuous motion — walk, pan, push-in, dialogue flow across angles that should feel like **one take** |
+| **Stitch separate clips** | **Hard cut** between story beats — exterior → ritual → Tiresias arrives → prophecy → end |
+
+### How to do tagged sequences
+
+1. Upload storyboard stills to References (tag each: `@Odysseus`, `@env-cavern`, etc.)
+2. In **one prompt**, describe a multi-shot sequence with inline tags:
+
+```
+Four shot sequence:
+
+1. Wide — @env-shore-establishing — Odysseus small figure walks toward cavern at dusk.
+2. Medium rear — @Odysseus rear ref — same walk continues, torch in hand.
+3. Side track — @Odysseus profile — lateral follow, same continuous walk.
+4. Low wide — @env-cavern-dark — he reaches cavern mouth. Beat ends. Hold.
+
+Continuous motion throughout. 35mm grain. No music. 15s.
+```
+
+3. Generate **one clip** per beat — smoother than stitching 4 separate walk clips
+
+### Map to this production
+
+| Beat | Recommended approach |
+|------|---------------------|
+| **Descent walk** (03–05) | Try **@ storyboard sequence** in one 15s gen; stitch to Act I only if cuts needed |
+| **Ritual** (06–08) | **Stitch OK** at end of 08 — clear beat change when shades stir (09) |
+| **Shades + sword** (09–11) | **@ sequence** possible (OTS → medium → sword draw) OR separate gens + stitch at 11 |
+| **Tiresias prophecy** (13–21) | **Stitch between CUs** — each line is a new camera; cut points are intentional |
+| **Aftermath** (23–26) | **@ sequence** for 24–25 (reaction → rear abyss) if motion should flow |
+
+**Contest export:** Still need **3–5 min** final — assemble beat-level clips (whether from @ sequences or individual shots) with **Stitch only at act breaks**.
+
+See updated [`05-stitching-order.md`](05-stitching-order.md).
 
 ---
 
