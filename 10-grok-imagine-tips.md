@@ -1,7 +1,7 @@
 # Grok Imagine — Official & Community Tips
 
 Extracted from **@karaebel** (xAI/Grok team), **@SebJefferies**, and creator threads.  
-Use alongside this repo's shot list and reference pack.
+Use alongside this repo's shot list and reference pack. Official @imagine scene language is in [`11-imagine-cinematic-guide.md`](11-imagine-cinematic-guide.md).
 
 **Sources:** Kara replies on X · Aug 2026 · Grok Imagine / Agent Mode updates · community (Aug 25, 2026)
 
