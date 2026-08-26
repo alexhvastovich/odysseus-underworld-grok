@@ -1,7 +1,10 @@
 # Shot 12 — TIRESIAS EMERGENCE
 
 **Duration target:** 10 seconds
-**References to attach:** see line below
+
+**Attach references (≤7):** see prompt footer. Always include character anchors.
+
+Pre-flight: [`06-character-consistency.md`](../06-character-consistency.md)
 
 ---
 
@@ -14,9 +17,18 @@ Muted palette: charcoal, wet stone grey, cold blue-black, torch amber, bleached 
 Volumetric smoke. Natural weathered skin. Coarse linen/wool costume. No glowing ghosts.
 Environmental audio only unless dialogue specified. No on-screen text.
 
+CHARACTER LOCK — Odysseus (match ALL attached reference images exactly):
+Same face identity as odysseus-anchor. Thick dark wavy hair with grey at temples,
+ salt-and-pepper beard (dark with distinct grey streaks), deep-set brown eyes,
+ sun-darkened skin, coarse tan/beige linen cloak, bronze fibula. Never look at camera.
+
+CHARACTER LOCK — Tiresias (match ALL attached reference images exactly):
+Same face identity as tiresias-portrait. Very old, gaunt, blind milky eyes,
+ thin grey beard, dark charcoal wool robes, bronze staff. Never look at camera.
+
 SHOT 12 — TIRESIAS EMERGENCE
 Duration: 10 seconds.
-65mm slow push-in. Tiresias steps from smoke — gaunt, blind, dark robes, bronze staff. Shades behind him. He faces camera-left toward Odysseus. Measured steps. No dialogue yet.
+65mm slow push. Tiresias steps from smoke — SAME Tiresias as references. Odysseus may be soft BG — same Odysseus anchor if visible.
 
-References: tiresias-fullbody, env-cavern-dark. Eyeline: CL toward Odysseus
+References: tiresias-portrait, tiresias-fullbody, odysseus-anchor, env-cavern-dark
 ```

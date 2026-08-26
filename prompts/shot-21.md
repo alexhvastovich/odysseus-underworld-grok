@@ -1,7 +1,10 @@
 # Shot 21 — TIRESIAS CU DEATH
 
 **Duration target:** 10 seconds
-**References to attach:** see line below
+
+**Attach references (≤7):** see prompt footer. Always include character anchors.
+
+Pre-flight: [`06-character-consistency.md`](../06-character-consistency.md)
 
 ---
 
@@ -14,9 +17,13 @@ Muted palette: charcoal, wet stone grey, cold blue-black, torch amber, bleached 
 Volumetric smoke. Natural weathered skin. Coarse linen/wool costume. No glowing ghosts.
 Environmental audio only unless dialogue specified. No on-screen text.
 
+CHARACTER LOCK — Tiresias (match ALL attached reference images exactly):
+Same face identity as tiresias-portrait. Very old, gaunt, blind milky eyes,
+ thin grey beard, dark charcoal wool robes, bronze staff. Never look at camera.
+
 SHOT 21 — TIRESIAS CU DEATH
 Duration: 10 seconds.
-100mm tight CU Tiresias. Final prophecy lines. Almost whispered. Cold blue background.
+100mm tight CU Tiresias. SAME face. Almost whispered.
 Dialogue: "Plant it in the earth. Sacrifice to Poseidon. Then death will come gently, from the sea." — low, grave voice. Natural lip sync.
 
 References: tiresias-portrait, env-cavern-dark. Eyeline: CL

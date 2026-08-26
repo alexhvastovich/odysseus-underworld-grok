@@ -9,12 +9,9 @@ Designed for the **film-crew workflow**: generate individual 6–12s clips with 
 ## Quick start (when your Grok limit resets)
 
 ### 1. Lock reference stills first
-Open [`03-reference-pack.md`](03-reference-pack.md) and generate **still images only**:
-- Odysseus (6 angles)
-- Tiresias (4 angles)
-- Underworld environments (4 plates)
+Open [`06-character-consistency.md`](06-character-consistency.md) and [`03-reference-pack.md`](03-reference-pack.md).
 
-Approve faces, costume, and palette before animating anything.
+**Start with your approved Odysseus** from existing Calypso-scene work → save as `odysseus-anchor.jpg`. Derive all other angles from that anchor. Then build Tiresias masters. **Stills only — no video yet.**
 
 ### 2. Generate shots in order
 Open [`04-shot-list.md`](04-shot-list.md). For each shot **01 → 26**:
@@ -37,6 +34,7 @@ Follow [`05-stitching-order.md`](05-stitching-order.md). Select all clips in can
 | [`03-reference-pack.md`](03-reference-pack.md) | Still-image prompts for character/environment masters |
 | [`04-shot-list.md`](04-shot-list.md) | 26-shot master table (duration, camera, refs, eyelines) |
 | [`05-stitching-order.md`](05-stitching-order.md) | Assembly order + partial stitch groups |
+| [`06-character-consistency.md`](06-character-consistency.md) | **Anchor workflow + 7-ref formula — read before generating** |
 | [`prompts/`](prompts/) | Copy-paste Grok prompts for shots 01–26 |
 | [`PRODUCTION-GUIDE.md`](PRODUCTION-GUIDE.md) | Extended workflow notes |
 | [`skills/`](skills/) | Cursor agent skill for this workflow |
@@ -59,11 +57,13 @@ You can paste individual prompt files directly into Grok Imagine chat, or share 
 
 ## Key rules
 
+- **One anchor face** — export your approved Odysseus still; attach it to every Odysseus shot
 - **One shot = one generation** (6–12s typical; 15s max)
 - **1080p, 16:9** — compose for 2.39:1 anamorphic inside the frame
 - **180° rule:** Odysseus eyeline camera-right; Tiresias camera-left
 - **No glowing fantasy ghosts** — shades are dim, human, smoke-obscured
 - **Alternate dialogue** with reactions and atmospheric inserts
+- **Stitch does not fix faces** — reject and regenerate inconsistent shots
 
 ---
 

@@ -2,7 +2,21 @@
 
 Generate these as **still images** in Grok Imagine first. Approve each angle before using as reference-to-video attachments. Max **7 refs per video** — shot list specifies which to attach.
 
+**Read [`06-character-consistency.md`](06-character-consistency.md) first.** Character consistency is non-negotiable.
+
 **Naming convention:** Save approved stills with the filenames below so you can find them quickly in canvas.
+
+---
+
+## Step 0 — Lock your anchor (do this before anything else)
+
+You already have an approved Odysseus from your Calypso-scene work (weathered man, salt-and-pepper beard, coarse tan linen, Mediterranean coast).
+
+1. Export your best frame → save as **`odysseus-anchor.jpg`**
+2. Do **not** text-generate a new Odysseus face — derive all angles from this anchor
+3. Every video generation attaches `odysseus-anchor.jpg` in slot 1
+
+See **Deriving angle stills from your anchor** in `06-character-consistency.md`.
 
 ---
 
@@ -20,10 +34,11 @@ Muted earth and charcoal palette. No text. No watermark. Photorealistic.
 
 ### `odysseus-front.jpg`
 ```
-Front-facing portrait of Odysseus, king of Ithaca. Weathered man late 30s-40s,
- thick dark beard with grey streaks, deep-set tired eyes, sun-darkened skin,
- wind-chapped. Coarse undyed linen cloak over bare muscular shoulders, bronze fibula.
- Neutral grey coastal background, overcast pre-dawn light. Symmetrical portrait, eyes level.
+Using EXACT same face and costume as odysseus-anchor reference — do not change identity.
+Front-facing portrait of Odysseus. Weathered man late 30s-40s,
+ thick dark wavy hair with grey at temples, full salt-and-pepper beard matching anchor exactly,
+ deep-set tired brown eyes, sun-darkened skin, coarse undyed tan/beige linen cloak, bronze fibula.
+ Underworld lighting variant: pre-dawn grey coastal OR torch amber as noted. Eyes level, neutral pose.
 [GLOBAL STILL SUFFIX]
 ```
 
@@ -159,8 +174,10 @@ Close still of weathered wooden oar, salt-stained, lying on rocky ground. Torch 
 
 Before animating shot 01:
 
-- [ ] All Odysseus angles match same face/beard/costume
+- [ ] **`odysseus-anchor.jpg` locked** from your approved Calypso-scene frame
+- [ ] All Odysseus angles derived from anchor — same face, beard pattern, tan linen costume
 - [ ] Tiresias matches across portrait, 3q, profile, full body
 - [ ] Environment palette consistent (charcoal + amber + cold blue)
 - [ ] Shades in env-shades-crowd are dim human forms, not fantasy glow
 - [ ] Saved with filenames above in Grok canvas or local folder
+- [ ] Completed pre-flight check in `06-character-consistency.md` on a test still

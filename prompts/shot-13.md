@@ -1,7 +1,10 @@
 # Shot 13 — TIRESIAS CU OPENS
 
 **Duration target:** 10 seconds
-**References to attach:** see line below
+
+**Attach references (≤7):** see prompt footer. Always include character anchors.
+
+Pre-flight: [`06-character-consistency.md`](../06-character-consistency.md)
 
 ---
 
@@ -14,10 +17,14 @@ Muted palette: charcoal, wet stone grey, cold blue-black, torch amber, bleached 
 Volumetric smoke. Natural weathered skin. Coarse linen/wool costume. No glowing ghosts.
 Environmental audio only unless dialogue specified. No on-screen text.
 
+CHARACTER LOCK — Tiresias (match ALL attached reference images exactly):
+Same face identity as tiresias-portrait. Very old, gaunt, blind milky eyes,
+ thin grey beard, dark charcoal wool robes, bronze staff. Never look at camera.
+
 SHOT 13 — TIRESIAS CU OPENS
 Duration: 10 seconds.
-85mm locked close-up Tiresias. Milky blind eyes, ancient skin, torch rim light. Stable camera, micro handheld only. Speaks slowly camera-left toward Odysseus, never at lens. Ghostly out-of-focus shapes behind.
+85mm locked CU Tiresias. SAME blind face as references. Speaks CL toward Odysseus.
 Dialogue: "Son of Laertes… you seek a way home." — low, grave voice. Natural lip sync.
 
-References: tiresias-portrait, tiresias-3q-left. Eyeline: CL
+References: tiresias-portrait, tiresias-3q-left, odysseus-anchor. Eyeline: CL
 ```

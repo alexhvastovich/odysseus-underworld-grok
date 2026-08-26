@@ -1,7 +1,10 @@
 # Shot 06 — RITUAL PIT MASTER
 
 **Duration target:** 10 seconds
-**References to attach:** see line below
+
+**Attach references (≤7):** see prompt footer. Always include character anchors.
+
+Pre-flight: [`06-character-consistency.md`](../06-character-consistency.md)
 
 ---
 
@@ -14,9 +17,14 @@ Muted palette: charcoal, wet stone grey, cold blue-black, torch amber, bleached 
 Volumetric smoke. Natural weathered skin. Coarse linen/wool costume. No glowing ghosts.
 Environmental audio only unless dialogue specified. No on-screen text.
 
+CHARACTER LOCK — Odysseus (match ALL attached reference images exactly):
+Same face identity as odysseus-anchor. Thick dark wavy hair with grey at temples,
+ salt-and-pepper beard (dark with distinct grey streaks), deep-set brown eyes,
+ sun-darkened skin, coarse tan/beige linen cloak, bronze fibula. Never look at camera.
+
 SHOT 06 — RITUAL PIT MASTER
 Duration: 10 seconds.
-40mm wide master. Ritual pit dug in black sand before cavern. Odysseus kneels at pit edge. Clay vessels, bronze bowl, dark blood in sand, small fire. Smoke rises. Crew distant. Deliberate ritual preparation.
+40mm wide. SAME Odysseus kneeling at ritual pit. Match anchor face and tan linen exactly.
 
-References: env-ritual-pit, odysseus-fullbody
+References: odysseus-anchor, odysseus-fullbody, env-ritual-pit
 ```

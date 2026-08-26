@@ -1,7 +1,10 @@
 # Shot 01 — AERIAL ESTABLISHING
 
 **Duration target:** 10 seconds
-**References to attach:** see line below
+
+**Attach references (≤7):** see prompt footer. Always include character anchors.
+
+Pre-flight: [`06-character-consistency.md`](../06-character-consistency.md)
 
 ---
 
@@ -16,7 +19,7 @@ Environmental audio only unless dialogue specified. No on-screen text.
 
 SHOT 01 — AERIAL ESTABLISHING
 Duration: 10 seconds.
-Extremely wide aerial view of desolate rocky shore at the edge of the world. Pre-dawn grey sky, black volcanic sand, dark cavern mouth in cliff. Beached ancient ship tiny in distance. Slow forward drift, imperceptible. Epic scale, dread, silence. No people visible.
+Extremely wide aerial view of desolate rocky shore at edge of the world. Pre-dawn grey sky, black volcanic sand, dark cavern mouth in cliff. Beached ancient ship tiny in distance. Slow forward drift. No people.
 
 References: env-shore-establishing
 ```

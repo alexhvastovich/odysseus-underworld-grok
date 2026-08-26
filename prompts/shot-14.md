@@ -1,7 +1,10 @@
 # Shot 14 — OTS TIRESIAS TO ODYSSEUS
 
 **Duration target:** 9 seconds
-**References to attach:** see line below
+
+**Attach references (≤7):** see prompt footer. Always include character anchors.
+
+Pre-flight: [`06-character-consistency.md`](../06-character-consistency.md)
 
 ---
 
@@ -14,10 +17,19 @@ Muted palette: charcoal, wet stone grey, cold blue-black, torch amber, bleached 
 Volumetric smoke. Natural weathered skin. Coarse linen/wool costume. No glowing ghosts.
 Environmental audio only unless dialogue specified. No on-screen text.
 
+CHARACTER LOCK — Odysseus (match ALL attached reference images exactly):
+Same face identity as odysseus-anchor. Thick dark wavy hair with grey at temples,
+ salt-and-pepper beard (dark with distinct grey streaks), deep-set brown eyes,
+ sun-darkened skin, coarse tan/beige linen cloak, bronze fibula. Never look at camera.
+
+CHARACTER LOCK — Tiresias (match ALL attached reference images exactly):
+Same face identity as tiresias-portrait. Very old, gaunt, blind milky eyes,
+ thin grey beard, dark charcoal wool robes, bronze staff. Never look at camera.
+
 SHOT 14 — OTS TIRESIAS TO ODYSSEUS
 Duration: 9 seconds.
-85mm over Tiresias shoulder to Odysseus. Odysseus looks camera-right toward Tiresias. Low grave voice. Shallow depth of field. 180-degree axis maintained.
+85mm OTS Tiresias to Odysseus. SAME Odysseus face as anchor. Odysseus looks CR.
 Dialogue: "Tell me what the gods have hidden from me." — low, grave voice. Natural lip sync.
 
-References: odysseus-3q-right, tiresias-portrait. Eyeline: Odysseus CR
+References: odysseus-anchor, odysseus-3q-right, tiresias-portrait. Eyeline: Odysseus CR
 ```

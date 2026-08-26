@@ -1,7 +1,10 @@
 # Shot 07 — HANDS POUR LIBATION
 
 **Duration target:** 7 seconds
-**References to attach:** see line below
+
+**Attach references (≤7):** see prompt footer. Always include character anchors.
+
+Pre-flight: [`06-character-consistency.md`](../06-character-consistency.md)
 
 ---
 
@@ -16,7 +19,7 @@ Environmental audio only unless dialogue specified. No on-screen text.
 
 SHOT 07 — HANDS POUR LIBATION
 Duration: 7 seconds.
-100mm insert. Weathered hands pour milk then dark wine from clay vessel into ritual pit. Fire flickers. Sand texture, blood stain. No face visible. Slow pour.
+100mm insert. Weathered hands pour libation — must match Odysseus skin tone from references. No face.
 
-References: env-ritual-pit
+References: odysseus-anchor (skin tone), env-ritual-pit
 ```

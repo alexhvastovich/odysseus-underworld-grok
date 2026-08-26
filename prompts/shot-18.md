@@ -1,7 +1,10 @@
 # Shot 18 — ODYSSEUS REVERSE CU
 
 **Duration target:** 8 seconds
-**References to attach:** see line below
+
+**Attach references (≤7):** see prompt footer. Always include character anchors.
+
+Pre-flight: [`06-character-consistency.md`](../06-character-consistency.md)
 
 ---
 
@@ -14,10 +17,15 @@ Muted palette: charcoal, wet stone grey, cold blue-black, torch amber, bleached 
 Volumetric smoke. Natural weathered skin. Coarse linen/wool costume. No glowing ghosts.
 Environmental audio only unless dialogue specified. No on-screen text.
 
+CHARACTER LOCK — Odysseus (match ALL attached reference images exactly):
+Same face identity as odysseus-anchor. Thick dark wavy hair with grey at temples,
+ salt-and-pepper beard (dark with distinct grey streaks), deep-set brown eyes,
+ sun-darkened skin, coarse tan/beige linen cloak, bronze fibula. Never look at camera.
+
 SHOT 18 — ODYSSEUS REVERSE CU
 Duration: 8 seconds.
-85mm Odysseus close-up reverse angle. Looks camera-right to Tiresias. Defiance mixing with fear. Minimal movement.
+85mm Odysseus CU. SAME face as anchor. Looks CR to Tiresias.
 Dialogue: "And if I keep my hands from them?" — low, grave voice. Natural lip sync.
 
-References: odysseus-front, odysseus-3q-right. Eyeline: CR
+References: odysseus-anchor, odysseus-front, odysseus-3q-right. Eyeline: CR
 ```

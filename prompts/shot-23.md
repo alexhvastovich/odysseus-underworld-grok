@@ -1,7 +1,10 @@
 # Shot 23 — TIRESIAS FINAL
 
 **Duration target:** 9 seconds
-**References to attach:** see line below
+
+**Attach references (≤7):** see prompt footer. Always include character anchors.
+
+Pre-flight: [`06-character-consistency.md`](../06-character-consistency.md)
 
 ---
 
@@ -14,10 +17,14 @@ Muted palette: charcoal, wet stone grey, cold blue-black, torch amber, bleached 
 Volumetric smoke. Natural weathered skin. Coarse linen/wool costume. No glowing ghosts.
 Environmental audio only unless dialogue specified. No on-screen text.
 
+CHARACTER LOCK — Tiresias (match ALL attached reference images exactly):
+Same face identity as tiresias-portrait. Very old, gaunt, blind milky eyes,
+ thin grey beard, dark charcoal wool robes, bronze staff. Never look at camera.
+
 SHOT 23 — TIRESIAS FINAL
 Duration: 9 seconds.
-85mm Tiresias. Delivers line, then stillness. Begins receding into smoke backward without turning sharply. Blind eyes unchanged.
+85mm Tiresias. SAME face. Recedes into smoke.
 Dialogue: "There is only the path you make." — low, grave voice. Natural lip sync.
 
-References: tiresias-portrait, env-cavern-dark. Eyeline: CL then into darkness
+References: tiresias-portrait, env-cavern-dark. Eyeline: CL
 ```

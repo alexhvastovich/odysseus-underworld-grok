@@ -1,7 +1,10 @@
 # Shot 17 — TIRESIAS MEDIUM CATTLE
 
 **Duration target:** 10 seconds
-**References to attach:** see line below
+
+**Attach references (≤7):** see prompt footer. Always include character anchors.
+
+Pre-flight: [`06-character-consistency.md`](../06-character-consistency.md)
 
 ---
 
@@ -14,10 +17,14 @@ Muted palette: charcoal, wet stone grey, cold blue-black, torch amber, bleached 
 Volumetric smoke. Natural weathered skin. Coarse linen/wool costume. No glowing ghosts.
 Environmental audio only unless dialogue specified. No on-screen text.
 
+CHARACTER LOCK — Tiresias (match ALL attached reference images exactly):
+Same face identity as tiresias-portrait. Very old, gaunt, blind milky eyes,
+ thin grey beard, dark charcoal wool robes, bronze staff. Never look at camera.
+
 SHOT 17 — TIRESIAS MEDIUM CATTLE
 Duration: 10 seconds.
-65mm medium Tiresias. Staff visible. Emphasize warning. Shades soft background. Camera stable.
+65mm medium Tiresias. SAME character. Staff visible.
 Dialogue: "On Thrinacia's isle, leave Helios' cattle unharmed — or your ship and your men will perish." — low, grave voice. Natural lip sync.
 
-References: tiresias-3q-left, env-shades-crowd. Eyeline: CL
+References: tiresias-portrait, tiresias-3q-left, env-shades-crowd. Eyeline: CL
 ```

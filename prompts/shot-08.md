@@ -1,7 +1,10 @@
 # Shot 08 — ODYSSEUS OVER PIT
 
 **Duration target:** 10 seconds
-**References to attach:** see line below
+
+**Attach references (≤7):** see prompt footer. Always include character anchors.
+
+Pre-flight: [`06-character-consistency.md`](../06-character-consistency.md)
 
 ---
 
@@ -14,10 +17,15 @@ Muted palette: charcoal, wet stone grey, cold blue-black, torch amber, bleached 
 Volumetric smoke. Natural weathered skin. Coarse linen/wool costume. No glowing ghosts.
 Environmental audio only unless dialogue specified. No on-screen text.
 
+CHARACTER LOCK — Odysseus (match ALL attached reference images exactly):
+Same face identity as odysseus-anchor. Thick dark wavy hair with grey at temples,
+ salt-and-pepper beard (dark with distinct grey streaks), deep-set brown eyes,
+ sun-darkened skin, coarse tan/beige linen cloak, bronze fibula. Never look at camera.
+
 SHOT 08 — ODYSSEUS OVER PIT
 Duration: 10 seconds.
-65mm medium on Odysseus kneeling at pit. Low torch underlight. He speaks quietly downward toward pit, grave voice, never at camera. Shades implied off-screen. Heavy pause after line.
+65mm medium. SAME Odysseus face as references. Speaks down toward pit, grave voice.
 Dialogue: "Stay back… until the blood is tasted." — low, grave voice. Natural lip sync.
 
-References: odysseus-3q-right, env-ritual-pit. Eyeline: down to pit
+References: odysseus-anchor, odysseus-3q-right, env-ritual-pit. Eyeline: down
 ```

@@ -1,7 +1,10 @@
 # Shot 03 — ODYSSEUS REAR WALK
 
 **Duration target:** 9 seconds
-**References to attach:** see line below
+
+**Attach references (≤7):** see prompt footer. Always include character anchors.
+
+Pre-flight: [`06-character-consistency.md`](../06-character-consistency.md)
 
 ---
 
@@ -14,9 +17,14 @@ Muted palette: charcoal, wet stone grey, cold blue-black, torch amber, bleached 
 Volumetric smoke. Natural weathered skin. Coarse linen/wool costume. No glowing ghosts.
 Environmental audio only unless dialogue specified. No on-screen text.
 
+CHARACTER LOCK — Odysseus (match ALL attached reference images exactly):
+Same face identity as odysseus-anchor. Thick dark wavy hair with grey at temples,
+ salt-and-pepper beard (dark with distinct grey streaks), deep-set brown eyes,
+ sun-darkened skin, coarse tan/beige linen cloak, bronze fibula. Never look at camera.
+
 SHOT 03 — ODYSSEUS REAR WALK
 Duration: 9 seconds.
-Rear view medium-wide. Odysseus walks alone toward dark cavern entrance, torch in hand. Coarse cloak, bronze sword at hip. Footprints in black sand. Steady walk, no camera move except subtle forward follow. Eyeline toward cavern.
+Rear view medium-wide. SAME Odysseus silhouette and cloak as references. Torch in hand, sword at hip. Walk toward cavern.
 
-References: odysseus-rear, env-shore-establishing
+References: odysseus-anchor, odysseus-rear, env-shore-establishing
 ```

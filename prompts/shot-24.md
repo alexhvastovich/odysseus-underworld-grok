@@ -1,7 +1,10 @@
 # Shot 24 — ODYSSEUS REACTION HOLD
 
 **Duration target:** 7 seconds
-**References to attach:** see line below
+
+**Attach references (≤7):** see prompt footer. Always include character anchors.
+
+Pre-flight: [`06-character-consistency.md`](../06-character-consistency.md)
 
 ---
 
@@ -14,9 +17,14 @@ Muted palette: charcoal, wet stone grey, cold blue-black, torch amber, bleached 
 Volumetric smoke. Natural weathered skin. Coarse linen/wool costume. No glowing ghosts.
 Environmental audio only unless dialogue specified. No on-screen text.
 
+CHARACTER LOCK — Odysseus (match ALL attached reference images exactly):
+Same face identity as odysseus-anchor. Thick dark wavy hair with grey at temples,
+ salt-and-pepper beard (dark with distinct grey streaks), deep-set brown eyes,
+ sun-darkened skin, coarse tan/beige linen cloak, bronze fibula. Never look at camera.
+
 SHOT 24 — ODYSSEUS REACTION HOLD
 Duration: 7 seconds.
-85mm Odysseus CU silent hold. He stares camera-right into dark where Tiresias was. Micro-expression: acceptance. Wind and cavern drip. No dialogue.
+85mm Odysseus CU silent. SAME face as anchor. Stares CR into dark.
 
-References: odysseus-front. Eyeline: CR into dark
+References: odysseus-anchor, odysseus-front. Eyeline: CR
 ```

@@ -1,7 +1,10 @@
 # Shot 10 — SHADE PARTING WIDE
 
 **Duration target:** 8 seconds
-**References to attach:** see line below
+
+**Attach references (≤7):** see prompt footer. Always include character anchors.
+
+Pre-flight: [`06-character-consistency.md`](../06-character-consistency.md)
 
 ---
 
@@ -16,7 +19,7 @@ Environmental audio only unless dialogue specified. No on-screen text.
 
 SHOT 10 — SHADE PARTING WIDE
 Duration: 8 seconds.
-35mm wide inside cavern mouth. Smoke parts. Crowd of faint shades recede slightly as if making path. Cold blue darkness beyond. Torch amber foreground. Atmospheric, no dialogue.
+35mm wide. Smoke parts. Shades recede. Cold blue darkness beyond.
 
 References: env-shades-crowd, env-cavern-dark
 ```

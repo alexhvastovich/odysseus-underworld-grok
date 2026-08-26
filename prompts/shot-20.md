@@ -1,7 +1,10 @@
 # Shot 20 — TIRESIAS MEDIUM OAR
 
 **Duration target:** 12 seconds
-**References to attach:** see line below
+
+**Attach references (≤7):** see prompt footer. Always include character anchors.
+
+Pre-flight: [`06-character-consistency.md`](../06-character-consistency.md)
 
 ---
 
@@ -14,10 +17,14 @@ Muted palette: charcoal, wet stone grey, cold blue-black, torch amber, bleached 
 Volumetric smoke. Natural weathered skin. Coarse linen/wool costume. No glowing ghosts.
 Environmental audio only unless dialogue specified. No on-screen text.
 
+CHARACTER LOCK — Tiresias (match ALL attached reference images exactly):
+Same face identity as tiresias-portrait. Very old, gaunt, blind milky eyes,
+ thin grey beard, dark charcoal wool robes, bronze staff. Never look at camera.
+
 SHOT 20 — TIRESIAS MEDIUM OAR
 Duration: 12 seconds.
-65mm medium slow push on Tiresias. Optional brief cutaway impression of weathered oar in smoke — keep Tiresias dominant. Longest dialogue beat — allow pauses.
+65mm slow push Tiresias. SAME character. Oar impression in smoke optional.
 Dialogue: "You must break them. Then take an oar and walk inland… until a stranger calls it a winnowing fan." — low, grave voice. Natural lip sync.
 
-References: tiresias-fullbody, prop-oar. Eyeline: CL
+References: tiresias-portrait, tiresias-fullbody, prop-oar. Eyeline: CL
 ```

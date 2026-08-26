@@ -1,7 +1,10 @@
 # Shot 26 — WIDE SHADES CLOSING
 
 **Duration target:** 8 seconds
-**References to attach:** see line below
+
+**Attach references (≤7):** see prompt footer. Always include character anchors.
+
+Pre-flight: [`06-character-consistency.md`](../06-character-consistency.md)
 
 ---
 
@@ -14,9 +17,14 @@ Muted palette: charcoal, wet stone grey, cold blue-black, torch amber, bleached 
 Volumetric smoke. Natural weathered skin. Coarse linen/wool costume. No glowing ghosts.
 Environmental audio only unless dialogue specified. No on-screen text.
 
+CHARACTER LOCK — Odysseus (match ALL attached reference images exactly):
+Same face identity as odysseus-anchor. Thick dark wavy hair with grey at temples,
+ salt-and-pepper beard (dark with distinct grey streaks), deep-set brown eyes,
+ sun-darkened skin, coarse tan/beige linen cloak, bronze fibula. Never look at camera.
+
 SHOT 26 — WIDE SHADES CLOSING
 Duration: 8 seconds.
-35mm wide. Shades drift closer at edges of torchlight — not attacking, pressing. Odysseus silhouette. Smoke thickens. Ominous closure. End frame holds on darkness.
+35mm wide. SAME Odysseus silhouette. Shades press at torchlight edge.
 
-References: env-shades-crowd, env-cavern-dark
+References: odysseus-anchor, odysseus-fullbody, env-shades-crowd, env-cavern-dark
 ```
