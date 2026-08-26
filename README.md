@@ -9,9 +9,9 @@ Designed for the **film-crew workflow**: generate individual 6–12s clips with 
 ## Quick start (when your Grok limit resets)
 
 ### 1. Lock reference stills first
-Open [`06-character-consistency.md`](06-character-consistency.md) and [`03-reference-pack.md`](03-reference-pack.md).
+Open [`08-master-generation-order.md`](08-master-generation-order.md) — work **Phase 0 → Phase 3** only.
 
-**Start with your approved Odysseus** from existing Calypso-scene work → save as `odysseus-anchor.jpg`. Derive all other angles from that anchor. Then build Tiresias masters. **Stills only — no video yet.**
+Use [`images/`](images/) for copy-paste still prompts. Start with your Calypso Odysseus as `odysseus-anchor.jpg`. **No video until all stills pass the gate checks.**
 
 ### 2. Generate shots in order
 Open [`04-shot-list.md`](04-shot-list.md). For each shot **01 → 26**:
@@ -35,6 +35,9 @@ Follow [`05-stitching-order.md`](05-stitching-order.md). Select all clips in can
 | [`04-shot-list.md`](04-shot-list.md) | 26-shot master table (duration, camera, refs, eyelines) |
 | [`05-stitching-order.md`](05-stitching-order.md) | Assembly order + partial stitch groups |
 | [`06-character-consistency.md`](06-character-consistency.md) | **Anchor workflow + 7-ref formula — read before generating** |
+| [`07-virtual-set.md`](07-virtual-set.md) | Virtual set diagram + Camera A/B/C/D positions |
+| [`08-master-generation-order.md`](08-master-generation-order.md) | **Full checklist: all images → all video → stitch** |
+| [`images/`](images/) | Copy-paste prompts for every still (15 images) |
 | [`prompts/`](prompts/) | Copy-paste Grok prompts for shots 01–26 |
 | [`PRODUCTION-GUIDE.md`](PRODUCTION-GUIDE.md) | Extended workflow notes |
 | [`skills/`](skills/) | Cursor agent skill for this workflow |

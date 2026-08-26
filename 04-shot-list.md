@@ -5,7 +5,7 @@
 
 Copy full prompts from `prompts/shot-NN.md`.
 
----
+**Character refs:** Every Odysseus shot attaches `odysseus-anchor` + angle still. Every Tiresias shot attaches `tiresias-portrait` + angle still. See [`06-character-consistency.md`](06-character-consistency.md).
 
 ## Act I — Descent (0:00–0:42)
 
