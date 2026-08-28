@@ -21,6 +21,7 @@
 ### 720p Canvas Master (public)
 - **Grok Imagine post:** [Watch / share](https://grok.com/imagine/post/089e1664-db3d-49e1-bad2-34839efff5ec?source=agent)
 - Asset ID: `089e1664-db3d-49e1-bad2-34839efff5ec`
+- **Google Drive zip** (video + 8 keyframe previews): [Download](https://drive.google.com/file/d/1DECDez5rPgbU5mCrjf9MBdGW79Uc9yn-/view?usp=drivesdk)
 - See also: [`videos/README.md`](videos/README.md)
 
 ## Scene Bible
