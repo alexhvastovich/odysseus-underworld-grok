@@ -1,95 +1,36 @@
-# Odysseus in the Underworld — Grok Imagine Production Pack
+# Odysseus Underworld — Grok Imagine Production Pack
 
-A **shot-by-shot production bible** for building a ~4-minute cinematic sequence in **xAI Grok Imagine 1.5** — *Odyssey* Book 11 (Odysseus meets Tiresias in Hades).
+**Book 11 of the Odyssey · Grok Imagine cinematic sequence**
 
-**Grok Odyssey Challenge:** See [`09-grok-odyssey-challenge-rules.md`](09-grok-odyssey-challenge-rules.md) — $175K prizes, deadline **Aug 31, 2026**.
+26-shot storyboard reduced to a clean **21-scene** cut.
 
-Designed for the **film-crew workflow**: generate individual 6–12s clips with reference-to-video, then **Stitch** in Grok canvas. Do **not** ask Grok for a four-minute movie in one prompt.
+- Picture is the gate. Voice is post.
+- One shot = one generation. 6–15 s. 16:9 · compose 2.39:1 inside.
+- Never attach `odysseus-rear` or `env-shades-crowd`.
+- 180 rule: Odysseus looks camera-right, Tiresias camera-left.
+- Last frame of N is first frame of N+1 on same camera.
 
----
+## Current masters (local artifacts)
 
-## Quick start (when your Grok limit resets)
+| File | Size | Notes |
+|------|------|-------|
+| `Odysseus_stitch_boat-25_v2.mp4` | ~390 MB | 1080p boat→25 (no 20/26) |
+| `Odysseus_boat-25_canvas.mp4` | ~91 MB | 720p lean for canvas |
+| Exit keeper | `14befa0b…` | Scene 21 |
 
-### 1. Reference stills — **pre-generated in `reference/`**
-Download the [`reference/`](reference/) folder (16 PNGs) and upload to Grok canvas.
+## Scene Bible
+See `docs/SCENE_BIBLE.md`
 
-**Or** replace `odysseus-anchor.png` with your approved Calypso frame, then regenerate angles using [`images/`](images/) prompts.
+## Shot Map
+See `docs/SHOT_MAP.md`
 
-Skip to Phase 5 video when stills pass your review. See [`08-master-generation-order.md`](08-master-generation-order.md).
+## Rules (do not break)
+- Soft 0.6 s fade only 01→05
+- Last-frame joins on same camera
+- Hard cuts on camera/location change
+- No music in plate
+- No glowing ghosts
+- No contest-submit without Alex yes
 
-### 2. Generate shots in order
-Open [`04-shot-list.md`](04-shot-list.md). For each shot **01 → 26**:
-1. Open [`prompts/shot-NN.md`](prompts/)
-2. Attach the listed reference images (≤7 per generation)
-3. Copy the prompt block into Grok Imagine
-4. Generate → review eyelines → next shot
-
-### 3. Stitch
-Follow [`05-stitching-order.md`](05-stitching-order.md). Select all clips in canvas → **Stitch** (or type *"stitch these together"*).
-
----
-
-## What's in this repo
-
-| File | Purpose |
-|------|---------|
-| [`01-cinematography.md`](01-cinematography.md) | Global visual rules — paste into every prompt |
-| [`02-scenario-and-dialogue.md`](02-scenario-and-dialogue.md) | Book 11 story + all spoken lines |
-| [`03-reference-pack.md`](03-reference-pack.md) | Still-image prompts for character/environment masters |
-| [`04-shot-list.md`](04-shot-list.md) | 26-shot master table (duration, camera, refs, eyelines) |
-| [`records/guide-review/CANVAS-MAP.md`](records/guide-review/CANVAS-MAP.md) | **Still/video UUID ledger — write a row on every generate** |
-| [`records/guide-review/AGENT-FIX-PROMPT.txt`](records/guide-review/AGENT-FIX-PROMPT.txt) | One-line Agent prompts: last-frame handoff + CHANGE + stitch |
-| [`records/guide-review/IMAGINE-AGENT-PACK.txt`](records/guide-review/IMAGINE-AGENT-PACK.txt) | Full stay/change pack with ids |
-| [`05-stitching-order.md`](05-stitching-order.md) | Assembly order + partial stitch groups |
-| [`06-character-consistency.md`](06-character-consistency.md) | **Anchor workflow + 7-ref formula — read before generating** |
-| [`07-virtual-set.md`](07-virtual-set.md) | Virtual set diagram + Camera A/B/C/D positions |
-| [`08-master-generation-order.md`](08-master-generation-order.md) | **Full checklist: all images → all video → stitch** |
-| [`09-grok-odyssey-challenge-rules.md`](09-grok-odyssey-challenge-rules.md) | **Official @grok contest rules + submission checklist** |
-| [`10-grok-imagine-tips.md`](10-grok-imagine-tips.md) | **Kara/@grok tips: @refs, skin texture, timestamps, canvas method** |
-| [`11-imagine-cinematic-guide.md`](11-imagine-cinematic-guide.md) | **Official @imagine Odyssey cinematic guide — aim, film language, Speed/Quality, omni-ref, director prompts** |
-| [`images/`](images/) | Copy-paste prompts for every still (15 images) |
-| [`reference/`](reference/) | **Pre-generated PNG reference pack (16 files)** |
-| [`prompts/`](prompts/) | Copy-paste Grok prompts for shots 01–26 |
-| [`PRODUCTION-GUIDE.md`](PRODUCTION-GUIDE.md) | Extended workflow notes |
-| [`skills/`](skills/) | Cursor agent skills: cinematic sequence + Imagine cinematic scenes |
-
-**Runtime:** ~242 seconds (26 shots) · **Source:** Homer, *Odyssey* Book 11
-
----
-
-## Feeding this to Grok
-
-You can paste individual prompt files directly into Grok Imagine chat, or share the repo URL and ask Grok to walk the shot list with you.
-
-**Recommended order:**
-1. Paste the **Global Prompt Block** from `01-cinematography.md` once so Grok learns the look
-2. Work reference pack (`03-reference-pack.md`) shot by shot
-3. Work `prompts/shot-01.md` through `shot-26.md` in sequence
-4. Stitch using `05-stitching-order.md`
-
----
-
-## Key rules
-
-- **ID every node from shot 1** — still UUID + video UUID in `CANVAS-MAP.md` before the next generate
-- **Last frame of N is first of N+1** on the same camera. Attach it. Do not generate the next shot from a new still
-- **Ask Agent to trim and stitch** by video id. Hard-concat is wrong
-- **One anchor face** — export your approved Odysseus still; attach it to every Odysseus shot
-- **One shot = one generation** (6–12s typical; 15s max)
-- **1080p, 16:9** — compose for 2.39:1 anamorphic inside the frame
-- **180° rule:** Odysseus eyeline camera-right; Tiresias camera-left
-- **No glowing fantasy ghosts** — shades are dim, human, smoke-obscured
-- **Alternate dialogue** with reactions and atmospheric inserts
-- **Stitch does not fix faces** — reject and regenerate inconsistent shots
-
----
-
-## Quota saver
-
-If generations are limited, see the **16 must-have shots** list in [`04-shot-list.md`](04-shot-list.md) for a ~2:30 cut with the full prophecy intact.
-
----
-
-## License
-
-MIT — use freely for personal and commercial Grok productions. Homer belongs to the ages.
+## Production log
+Made with Grok Imagine (xAI) · Alex Hvastovich 2026
