@@ -18,6 +18,11 @@
 | `Odysseus_boat-25_canvas.mp4` | ~91 MB | 720p lean for canvas |
 | Exit keeper | `14befa0b…` | Scene 21 |
 
+### 720p Canvas Master (public)
+- **Grok Imagine post:** [Watch / share](https://grok.com/imagine/post/089e1664-db3d-49e1-bad2-34839efff5ec?source=agent)
+- Asset ID: `089e1664-db3d-49e1-bad2-34839efff5ec`
+- See also: [`videos/README.md`](videos/README.md)
+
 ## Scene Bible
 See `docs/SCENE_BIBLE.md`
 
