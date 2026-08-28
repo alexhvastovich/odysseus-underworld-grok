@@ -2,6 +2,9 @@
 
 **Book 11 of the Odyssey · Grok Imagine cinematic sequence**
 
+**→ Start here for the complete package:**  
+[**PROJECT-COMPLETE.md**](PROJECT-COMPLETE.md) (all docs + video + download links)
+
 26-shot storyboard reduced to a clean **21-scene** cut.
 
 - Picture is the gate. Voice is post.
