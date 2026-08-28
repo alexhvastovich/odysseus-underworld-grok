@@ -37,6 +37,9 @@ Follow [`05-stitching-order.md`](05-stitching-order.md). Select all clips in can
 | [`02-scenario-and-dialogue.md`](02-scenario-and-dialogue.md) | Book 11 story + all spoken lines |
 | [`03-reference-pack.md`](03-reference-pack.md) | Still-image prompts for character/environment masters |
 | [`04-shot-list.md`](04-shot-list.md) | 26-shot master table (duration, camera, refs, eyelines) |
+| [`records/guide-review/CANVAS-MAP.md`](records/guide-review/CANVAS-MAP.md) | **Still/video UUID ledger — write a row on every generate** |
+| [`records/guide-review/AGENT-FIX-PROMPT.txt`](records/guide-review/AGENT-FIX-PROMPT.txt) | One-line Agent prompts: last-frame handoff + CHANGE + stitch |
+| [`records/guide-review/IMAGINE-AGENT-PACK.txt`](records/guide-review/IMAGINE-AGENT-PACK.txt) | Full stay/change pack with ids |
 | [`05-stitching-order.md`](05-stitching-order.md) | Assembly order + partial stitch groups |
 | [`06-character-consistency.md`](06-character-consistency.md) | **Anchor workflow + 7-ref formula — read before generating** |
 | [`07-virtual-set.md`](07-virtual-set.md) | Virtual set diagram + Camera A/B/C/D positions |
@@ -68,6 +71,9 @@ You can paste individual prompt files directly into Grok Imagine chat, or share 
 
 ## Key rules
 
+- **ID every node from shot 1** — still UUID + video UUID in `CANVAS-MAP.md` before the next generate
+- **Last frame of N is first of N+1** on the same camera. Attach it. Do not generate the next shot from a new still
+- **Ask Agent to trim and stitch** by video id. Hard-concat is wrong
 - **One anchor face** — export your approved Odysseus still; attach it to every Odysseus shot
 - **One shot = one generation** (6–12s typical; 15s max)
 - **1080p, 16:9** — compose for 2.39:1 anamorphic inside the frame

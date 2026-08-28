@@ -1,0 +1,42 @@
+ODYSSEUS UNDERWORLD — paste to Imagine Agent
+Composer sends on every newline. Paste the MASTER as ONE paragraph. Then send each GO line alone.
+
+======== MASTER (one paragraph, no returns) ========
+
+You are finishing Odysseus Underworld on this existing canvas. Do not start a new project. Final movie is shots 05 through 26 only. Delete or ignore 01 02 03 04. The main rule: for every same-cave join the last frame of video N is the first frame of video N+1. Extract the last frame of N and start N+1 on that exact picture then play the new beat. If a take does not start on the previous last frame it is wrong — remake it from that frame do not hard-cut. You can trim and stitch. Trim the tail of a spoken take after the line. Never slam. Never close-to-wide on the same face. Never a new tunnel. No music. No glowing ghosts. Never odysseus-rear or env-shades-crowd. Do not edit KEEP nodes except to remake a take so it starts on the previous last frame. Do not regen 22 or 24 (look-left already done). One job at a time. Click the STILL id then chat. Spoken = this chat + the still attached. 1080p 16:9 compose 2.39:1.
+
+======== WHAT STAYS (do not regen unless last-frame fails) ========
+05 cavern mouth KEEP — NEED ID — film opens here
+06 aef050a7 / d9467612 kneeling pit KEEP — start on last frame of 05 then he is already kneeling
+07 76a36006 hands bowl KEEP — start on last frame of 06
+08 23ec0c1a Stay back… KEEP — start on last frame of 07
+09 30957d97 / 9ebf8e56 OTS shades KEEP — start on last frame of 08 after you TRIM 08 at the end of the line then shades emerge from shadow (not a slam)
+11 a9b95202 / 75f6f39f sword KEEP — start on last frame of NEW 10
+13 e9a504b1 / 9cf16218 Son of Laertes KEEP — start on last frame of NEW 12
+14 3762735c / 998ef59c Tell me… KEEP — start on last frame of 13 (good axis)
+16 141dc30e / 7b3826dc Poseidon KEEP — start on last frame of NEW 15
+17 cf0bdea3 / a5abe562 Thrinacia KEEP — start on last frame of 16
+19 cf29b862 / 1dd4fb32 suitors CU KEEP — start on last frame of NEW 18
+21 19a7315e / e856c438 death KEEP — start on last frame of NEW 20 same CU size
+22 49dc0afb / a0140ea2 look-left DONE — do not regen
+23 4f3c61ea / 42e32b0c only the path KEEP — start on last frame of 22
+24 6243d981 / f08470c6 look-left DONE — do not regen — start on last frame of 23
+25 bd803397 / b14fc866 rear abyss KEEP — start on last frame of 24
+
+======== GO LINES (send one at a time, still first) ========
+
+GO 12 click still cc0d8823-edbb-4ffe-9d41-b32e56ab019b start EXACTLY on the last frame of 11 video 75f6f39f-3e96-4224-ab5c-cc245b3911b4 then Tiresias STEPS from smoke and WALKS TOWARD Odysseus 65mm real gait not a hold Odysseus is not standing behind him no second Odysseus 10s silent Audio OFF no music
+
+GO 10 click still b90193e1-5c48-45e6-b3c2-7cb16b5b257f start EXACTLY on the last frame of 09 video 9ebf8e56-7ce9-45b4-b175-98d4e83b3fb2 SAME cavern as 09 not a new tunnel smoke parts near shades look at Odysseus and the blood one axis no clone walkers 10s silent Audio OFF no music
+
+GO 15 click still 8492cd00-87f1-48ee-a44d-f47275268346 start EXACTLY on the last frame of 14 video 998ef59c-adb4-4afb-a1c0-bb0e90b676e3 restore 13-14 axis Tiresias camera-left Odysseus camera-right do not switch sides line First you must hear what awaits you — and what you must not touch 15s Audio ON no music
+
+GO 18 click still ef04c281-f442-4e01-b4f8-a3f200b45521 start EXACTLY on the last frame of 17 video a5abe562-2aae-4d78-813e-a9547d05988d Odysseus looks camera-left toward Tiresias the whole take line And if I keep my hands from them? 15s Audio ON no music
+
+GO 20 click still 74ebb4a5-509f-4cf9-a634-7d698cef29a1 start EXACTLY on the last frame of 19 video 1dd4fb32-1089-47e1-891f-dc3065aca703 85mm CU SAME SIZE as 19 head and shoulders do not pull out line You must break them. Then take an oar and walk inland… until a stranger calls it a winnowing fan. 15s Audio ON chat plus this still no music
+
+GO 26 click still afcfb57c-a34c-4830-91e0-dbb8af343042 start EXACTLY on the last frame of 25 video b14fc866-0a6b-48a1-95c6-d46a2d524163 Odysseus STAYS shades close in he does not walk deeper he does not exit 10s silent Audio OFF no music
+
+======== STITCH (only after those six exist) ========
+
+GO stitch 05 through 26 in order. For each same-cave pair start the next video on the last frame of the previous and trim tails so the join is continuous. 05 to 06 may fade mouth into kneeling. 08 to 09 trim 08 then emerge from shadow. 19 to 20 hold CU size no wide. 25 to 26 he stays. No hard cuts. No new shots.

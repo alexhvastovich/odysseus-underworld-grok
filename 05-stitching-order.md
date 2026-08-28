@@ -1,5 +1,18 @@
 # Stitching Order
 
+**This cut:** shots **05–26**. 01–04 are out (triple cave entrance). Open on the last cavern-mouth take.
+
+## Do this, in this order
+
+1. **ID ledger.** From the first still, write shot / still UUID / video UUID / take in [`records/guide-review/CANVAS-MAP.md`](records/guide-review/CANVAS-MAP.md). Click by id. Do not invent ids.
+2. **Last frame is first frame.** Same camera / same cave: extract the last frame of video N. That picture **is** the first frame of N+1. Prompt: start on this exact frame, then play the new beat. New lock still only when camera or location changes. Start/end mismatch is a miss, not a stitch trick.
+3. **Ask Imagine Agent to trim and stitch.** Name the two video ids. Trim the tail of a spoken take after the line. Agent can stitch. Do not hard-concat locally first. ffmpeg xfade is fallback only.
+4. **Named joins:** 05→06 fade mouth→kneeling. 08→09 trim 08, emerge from shadow (not a slam to OTS). 09→10 same cavern as 09 after 10 is remade from 09's last frame. 16→17 last-frame. 19→20 hold CU size (no close→wide same face). 24→25 after look-left. 25→26 he stays.
+
+Paste-ready one-liners: [`records/guide-review/AGENT-FIX-PROMPT.txt`](records/guide-review/AGENT-FIX-PROMPT.txt).
+
+---
+
 **Rule:** Stitch only at **clear story-beat cut points**. For continuous motion within a beat, prefer **one generation from a tagged (@) storyboard sequence** — smoother than stitching micro-clips. See [`10-grok-imagine-tips.md`](10-grok-imagine-tips.md) §0.
 
 ---

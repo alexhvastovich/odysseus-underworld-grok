@@ -1,0 +1,237 @@
+ODYSSEUS UNDERWORLD — Imagine Agent pack
+Paste-ready. Composer submits on every newline, so CHANGE prompts are ONE LINE each.
+Final movie = shots 05–26. Delete 01–04 and unused extras from canvas.
+Still first: click the STILL id, then Agent chat. Spoken = chat + still. Do not one-click Make Video on dialogue.
+Method: Speed still → Quality upscale (pores/lines) → omni-reference video.
+No music. No glowing ghosts. Never attach odysseus-rear or env-shades-crowd.
+Voice is POST (Imagine cannot lock voice). Odysseus stem: 08,14,18,22. Tiresias stem: 13,15-17,19-21,23.
+Do not overwrite keepers. Do not regen 22 or 24 (already flipped in edit). Do not contest-submit.
+
+============================================================
+DELETE (not in final movie)
+============================================================
+
+01  aerial shore
+    still: unknown
+    video: eb0ee930-7e02-4eba-b5cb-1529ed8acc46
+    STAY/CHANGE: DELETE
+    why: triple cave entrance. Film starts at 05.
+
+02  sailors walk to cave
+    still: unknown
+    video: unknown
+    STAY/CHANGE: DELETE
+    why: clone gait / same motion. Out with 01–04.
+
+03  rear walk to cavern
+    still: 00e41daa… (INCOMPLETE)
+    video: unknown
+    STAY/CHANGE: DELETE
+    why: extra cave walk.
+
+04  side track walk
+    still: unknown
+    video: unknown
+    STAY/CHANGE: DELETE
+    why: extra cave walk.
+
+============================================================
+KEEP (do not edit these nodes)
+============================================================
+
+05  cavern mouth wide — LAST entrance, film opens here
+    still: NEED ID
+    video: NEED ID
+    STAY/CHANGE: KEEP
+    note: find this id on canvas. Do not delete 05.
+
+06  ritual pit, Odysseus kneeling
+    still: aef050a7-f35a-4b99-9b40-1888057c4d61
+    video: d9467612-433e-4a17-a6c6-f5f7d6263739
+    STAY/CHANGE: KEEP
+
+07  hands + bowl libation insert
+    still: 76a36006-2ee6-45ea-b746-8653e65ff1f5
+    video: 46f16198… (INCOMPLETE)
+    STAY/CHANGE: KEEP
+
+08  Odysseus over pit — “Stay back… until the blood is tasted.”
+    still: 23ec0c1a-d582-4feb-af5b-9b22620bd9d6
+    video: 3f44050e… (INCOMPLETE)
+    STAY/CHANGE: KEEP
+    stitch later: 08→09 should emerge from shadow (not a new 08/09 take)
+    voice: Odysseus
+
+09  OTS Odysseus, shades stir
+    still: 30957d97-8441-47e1-8e30-4a49d39a9d89
+    video: 9ebf8e56-7ce9-45b4-b175-98d4e83b3fb2
+    STAY/CHANGE: KEEP
+    note: eyeline fix lives on 10, not 09
+
+11  Odysseus sword drawn
+    still: a9b95202-c4f8-44f4-baac-a55ae1e8889b
+    video: 75f6f39f-3e96-4224-ab5c-cc245b3911b4
+    STAY/CHANGE: KEEP
+    stitch later: 10→11 pop may need a fade after 10 is replaced
+
+13  Tiresias CU — “Son of Laertes… you seek a way home.”
+    still: e9a504b1-3674-4c88-9d91-03e519dca444
+    video: 9cf16218-be7c-4c50-866a-1672596c4705
+    STAY/CHANGE: KEEP
+    voice: Tiresias. Good axis with 14.
+
+14  OTS Tiresias → Odysseus — “Tell me what the gods have hidden from me.”
+    still: 3762735c-380d-44e7-ad28-33339e7031ba
+    video: 998ef59c-adb4-4afb-a1c0-bb0e90b676e3
+    STAY/CHANGE: KEEP
+    voice: Odysseus. Good axis. Do not flip 13–14.
+
+16  Tiresias CU — “Poseidon still hunts you for the eye of his son.”
+    still: 141dc30e-e86e-4eac-9887-2f124dc9f323
+    video: 7b3826dc-84c1-4019-9415-c501f822048d
+    STAY/CHANGE: KEEP
+    stitch later: 16→17
+    voice: Tiresias
+
+17  Tiresias medium — Thrinacia / Helios cattle
+    still: cf0bdea3-3e9e-42c0-810b-850b74a2905b
+    video: a5abe562-2aae-4d78-813e-a9547d05988d
+    STAY/CHANGE: KEEP
+    voice: Tiresias
+
+19  Tiresias CU — suitors in the hall
+    still: cf29b862-555e-45e0-901a-50c86001936b
+    video: 1dd4fb32-1089-47e1-891f-dc3065aca703
+    STAY/CHANGE: KEEP
+    note: 19→20 size jump is 20’s problem. Far-to-close is ok. Do not widen 19.
+    voice: Tiresias
+
+21  Tiresias tight CU — death from the sea
+    still: 19a7315e-d4f1-4458-8e7c-0bd336bd013e
+    video: e856c438-20ee-4531-af99-1c1cabc983d4
+    STAY/CHANGE: KEEP
+    voice: Tiresias
+
+23  Tiresias final — “There is only the path you make.”
+    still: 4f3c61ea-2f42-4276-af99-20395b424ee3
+    video: 42e32b0c-eed2-430b-803b-02561984fad0
+    STAY/CHANGE: KEEP
+    voice: Tiresias
+
+25  rear wide, both facing the abyss
+    still: bd803397-d010-42c1-83cd-a30fb5ee0f12
+    video: b14fc866-0a6b-48a1-95c6-d46a2d524163
+    STAY/CHANGE: KEEP
+    stitch later: 24→25 after 22/24 look-left
+
+============================================================
+DONE IN EDIT (do not regen, do not lock)
+============================================================
+
+22  Odysseus CU — “Is there no other path?”
+    still: 49dc0afb-5e70-4d5a-9782-bd455955ac8c
+    video: a0140ea2-4db1-4c06-9957-60962bf631ed
+    STAY/CHANGE: DONE (hflip look-left, Picture PASS)
+    note: brooch + torch mirrored. Do not overwrite take-a. Voice Odysseus.
+
+24  Odysseus silent stare
+    still: 6243d981-5c52-4b91-8b3c-8fd9d1efdc2e
+    video: f08470c6-d9c0-40b8-ba20-66fdad799d89
+    STAY/CHANGE: DONE (hflip look-left, Picture PASS)
+    note: same mirror. Do not regen.
+
+============================================================
+CHANGE — fire this order. Click STILL, then send the ONE-LINE prompt.
+============================================================
+
+--- 1 of 6 ---
+12  Tiresias walks TOWARD Odysseus
+    still: cc0d8823-edbb-4ffe-9d41-b32e56ab019b
+    video: a654be6f-e8f2-4d32-a360-c87e975056d1
+    why: 01:52 he pops in a pose. Must walk to him. No Odysseus standing behind Tiresias as a double.
+    10s silent. Audio OFF.
+
+PROMPT (one line):
+GO video 12 click still cc0d8823-edbb-4ffe-9d41-b32e56ab019b 65mm eye level one slow push SAME Tiresias very old gaunt milky blind eyes thin grey beard charcoal wool bronze staff he STEPS from smoke and WALKS TOWARD Odysseus real gait not a hold not a freeze not into the lens Odysseus is not standing behind him no second Odysseus in frame 10s silent Audio OFF no music no glowing ghosts
+
+--- 2 of 6 ---
+10  same cavern as 09, one eyeline
+    still: b90193e1-5c48-45e6-b3c2-7cb16b5b257f
+    video: ec175f5f-2a56-47f0-9237-3aa47d8b7ef5
+    why: 01:31 shades look every way + new tunnel. Must be SAME cave as 09. Look at Odysseus / the blood.
+    10s silent. Audio OFF.
+
+PROMPT (one line):
+GO video 10 click still b90193e1-5c48-45e6-b3c2-7cb16b5b257f 35mm wide SAME cavern as shot 09 blood pit not a new tunnel smoke parts at center NEAR shades look at Odysseus and the blood one axis they step aside slowly no clone walkers no mirrored gait pack FAR ranks lost in dark dim solid humans no glow 10s silent Audio OFF no music no choir no glowing ghosts
+
+--- 3 of 6 ---
+15  two-shot, restore 13–14 axis
+    still: 8492cd00-87f1-48ee-a44d-f47275268346
+    video: 950af3f1-54ea-432e-a7a5-1e3f68fcb6c7
+    why: 02:31 they switched positions. 13 and 14 were the good axis.
+    15s spoken. Audio ON. Chat + still.
+
+PROMPT (one line):
+GO video 15 click still 8492cd00-87f1-48ee-a44d-f47275268346 50mm side two-shot restore axis Tiresias camera-left Odysseus camera-right same two men do not switch sides Tiresias speaks low unhurried First you must hear what awaits you — and what you must not touch no extra words 15s Audio ON no music no glowing ghosts never into lens
+
+--- 4 of 6 ---
+18  Odysseus look toward Tiresias (old man is camera-left)
+    still: ef04c281-f442-4e01-b4f8-a3f200b45521
+    video: 2f1c39fb-6e93-47a0-8db0-90d08d7a2c08
+    why: 03:17 his direction is wrong. Old man is on the left. He must look left.
+    15s spoken. Audio ON. Chat + still.
+
+PROMPT (one line):
+GO video 18 click still ef04c281-f442-4e01-b4f8-a3f200b45521 85mm CU SAME Odysseus looks camera-left the whole take toward Tiresias who is off-screen left never look right never into lens low grave And if I keep my hands from them? no extra words 15s Audio ON no music no glowing ghosts
+
+--- 5 of 6 ---
+20  hold CU size with 19
+    still: 74ebb4a5-509f-4cf9-a634-7d698cef29a1
+    video: 290b0cb0-2c91-4aca-8353-7302c9d7ff63
+    why: 03:47 close→far on the same face is weird. Hold head-and-shoulders with 19.
+    15s spoken. Audio ON. Chat + still. Do not one-click Make Video.
+
+PROMPT (one line):
+GO video 20 click still 74ebb4a5-509f-4cf9-a634-7d698cef29a1 85mm portrait CU SAME SIZE as shot 19 head and shoulders not a wider 65mm SAME Tiresias eyeline camera-right match 19 do not pull out do not reveal a wider cave low unhurried You must break them. Then take an oar and walk inland… until a stranger calls it a winnowing fan. no extra words 15s Audio ON no music no glowing ghosts never into lens
+
+--- 6 of 6 ---
+26  shades close, he STAYS
+    still: afcfb57c-a34c-4830-91e0-dbb8af343042
+    video: 3f07dcea-2dae-4182-a67b-f5916bffb176
+    why: 05:07 he walks deeper / weird exit. Boarded: ranks close, he stays. No exit.
+    10s silent. Audio OFF.
+
+PROMPT (one line):
+GO video 26 click still afcfb57c-a34c-4830-91e0-dbb8af343042 35mm wide SAME cavern as 25 Odysseus tan linen silhouette STAYS hood down bronze fibula NEAR shades press at the light look at him one axis FAR ranks close inward he does not walk deeper he does not exit no sailors no ship no cave-mouth exit 10s silent Audio OFF no music no glowing ghosts
+
+============================================================
+STITCH ONLY (after CHANGE takes exist — not Imagine jobs)
+============================================================
+08→09  0.6s emerge from shadow
+09→10  0.6s after 10 is the same cave
+16→17  soften the join
+24→25  after look-left
+10→11  fade the sword pop if it still slams
+
+============================================================
+VOICE (post, not Imagine)
+============================================================
+Odysseus: 08, 14, 18, 22 — one keeper stem, lay on the others. Lips will drift.
+Tiresias: 13, 15, 16, 17, 19, 20, 21, 23 — one keeper stem. Do not reshoot all 12 for voice.
+
+============================================================
+ASK AGENT TO TRIM AND STITCH (one line each)
+============================================================
+Do this AFTER CHANGE takes exist. Click nothing new. Name video ids.
+
+Same-location rule: last frame of N is first frame of N+1. If they do not match, trim A and start B on A's last frame.
+
+GO stitch 08 then 09 video 3f44050e into 9ebf8e56 trim the tail of 08 after the line then emerge from shadow into 09 no slam to OTS start 09 on last frame of 08
+GO stitch 09 then 10 video 9ebf8e56 into NEW-10-id start 10 on last frame of 09 SAME cavern as 09 not a new tunnel short dissolve only if last frames already match
+GO stitch 10 then 11 start 11 on last frame of 10 fade the sword pop if 11 does not already match
+GO stitch 16 then 17 start 17 on last frame of 16 same Tiresias same cave no slam
+GO stitch 19 then 20 HOLD CU SIZE do not go wide on the same face start 20 on last frame of 19
+GO stitch 24 then 25 start 25 on last frame of 24 after look-left
+GO stitch 25 then 26 start 26 on last frame of 25 he stays shades close no exit
+
+Full sequence when CHANGE videos exist: stitch 05 through 26 in order last-frame handoff on every same-cave join named fade only on 05→06 (mouth to kneeling). Do not hard cut.
